@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Abinaya 👋
 
+### Applied AI Engineer
+
+Building intelligent systems that solve real-world problems.
+
+---
 <!--
 **Abinaya-2117/Abinaya-2117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
